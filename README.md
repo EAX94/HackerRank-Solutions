@@ -1,5 +1,5 @@
 # HackerRank Solutions
-These are my solutions to the challenges, in C#.
+These are my solutions in C# to the challenges, divided in categories.
 
 # Interview Preparation Kit
 | Difficulty | Category | Challenge |
