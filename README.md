@@ -12,4 +12,5 @@ These are my solutions in C# to the challenges, divided in categories.
 | Difficulty | Category | Challenge |
 | :-------------: | :-------------: | :-----: |
 | Easy | `Arrays` | [2D Arrays - DS](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/2D%20Arrays%20-%20DS/Solution.cs) |
-| Easy | `Arrays` | [Arrays: Left Rotation](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/Arrays%20-%20Left%20Rotation/Solution.cs)| | Medium | `Arrays` | [New Year Chaos](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/New%20Year%20Chaos/Solution.cs) |
+| Easy | `Arrays` | [Arrays: Left Rotation](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/Arrays%20-%20Left%20Rotation/Solution.cs) |
+| Medium | `Arrays` | [New Year Chaos](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/New%20Year%20Chaos/Solution.cs) |
