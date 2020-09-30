@@ -20,8 +20,8 @@ class Solution {
         int arrLength = arr.Length;
         int i = 0;
 
-        while(i < arrLength){
-            if(arr[i] != (i+1)){
+        while(i < arrLength) {
+            if(arr[i] != (i+1)) {
                 int tempNum = arr[i];
 
                 arr[i] = arr[tempNum - 1];
