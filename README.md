@@ -15,3 +15,4 @@ These are my solutions in C# to the challenges, divided in categories.
 | Easy | `Arrays` | [Arrays: Left Rotation](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/Arrays%20-%20Left%20Rotation/Solution.cs) |
 | Medium | `Arrays` | [New Year Chaos](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/New%20Year%20Chaos/Solution.cs) |
 | Medium | `Arrays` | [Minimum Swaps 2](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/Minimum%20Swaps%202/Solution.cs) |
+| Hard | `Arrays` | [Array Manipulation](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Arrays/Array%20Manipulation/Solution.cs) |
