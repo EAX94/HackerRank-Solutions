@@ -21,3 +21,4 @@ These are my solutions in C# to the challenges, divided in categories.
 | :-------------: | :-------------: | :-----: |
 | Easy | `Dictionaries and Hashmaps` | [Hash Tables: Ransom Note](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Hash%20Tables%20-%20Ransom%20Note/Solution.cs) |
 | Easy | `Dictionaries and Hashmaps` | [Two Strings](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Two%20Strings/Solution.cs) |
+| Medium | `Dictionaries and Hashmaps` | [Sherlock and Anagrams](https://github.com/EAX94/HackerRank-Solutions/blob/main/Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/Sherlock%20and%20Anagrams/Solution.cs) |
